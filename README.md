@@ -7,7 +7,7 @@
 3. Aryan Rastogi (500075858, AI&ML, B2, R177219053)
 
 # Problem Statement :
-![Screenshot (560)](https://user-images.githubusercontent.com/60087551/173177060-f7c32f97-fdd2-402a-ac21-e27ec816f167.png)
+![Screenshot (562)](https://user-images.githubusercontent.com/60087551/173177177-43422f99-a487-4ba6-a647-e33b7805e3e4.png)
 
 # Project Objectives :
 1) To perform image restoration techniques such as De-Noising and Super-Resolution over degraded images.
